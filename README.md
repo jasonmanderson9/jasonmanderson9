@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/jasonmanderson9](https://github.com/jasonmanderson9)
 
-- 📫 How to reach me **jason2009@gmail.com**
+- 📫 How to reach me **jasonmanderson9@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
