@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer from the PNW</h3>
 <img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🌱 I’m currently learning **Python, Java JavaScript, C and C#.
+- 🌱 I’m currently learning **Python, Java JavaScript, C and C#.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/jasonmanderson9](https://github.com/jasonmanderson9)
 
