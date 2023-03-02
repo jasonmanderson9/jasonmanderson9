@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer from the PNW</h3>
 <img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🔭 I’m currently working on **my bachelors in Software Engineering.**
+- 🔭 I’m currently working on **my Bachelors in Software Engineering.**
 
 - 🌱 I’m currently learning **C#, Python, Java, JavaScript and CSS.**
 
