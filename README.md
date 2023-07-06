@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **my Bachelors in Software Engineering.**
 
-- 🌱 I’m currently learning **C#, Python, Java, JavaScript and CSS.**
+- 🌱 I’m currently learning **Java, C#, Python, JavaScript, TypeScript and CSS.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/jasonmanderson9](https://github.com/jasonmanderson9)
 
