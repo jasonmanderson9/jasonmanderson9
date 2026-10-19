@@ -1,2 +1,3 @@
-<p>Cybersecurity Engineer with 9+ years of IT and security experience spanning DLP infrastructure, cloud security (O365/Azure), endpoint encryption, and automation. Skilled in architecting compliance-driven security configurations, administering MFA and encryption technologies </p>
+<p>Cybersecurity Engineer with 5+ years of security-focused IT experience and 10+ years overall in IT. Background spans Data Loss Prevention, SIEM
+deployment, endpoint security, and cloud infrastructure (Azure/O365).</p>
 
